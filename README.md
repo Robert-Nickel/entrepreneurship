@@ -1,0 +1,4 @@
+# Entrepreneurship
+
+Idee:
+...
