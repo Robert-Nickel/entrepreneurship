@@ -1,5 +1,3 @@
-# Foodtastic
-
 ### Problem
 - Welches Rezept koche ich wann?
 - Wie ernähre ich mich ausgewogen, obwohl ich kein ____ esse?
