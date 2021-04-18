@@ -25,3 +25,33 @@ __Einkaufshelfer__
 - Zusammenarbeit mit Influencern
 - Wie schnell sind 3€ im Supermarkt zu viel ausgegeben? (Rationalisierung der Kaufentscheidung)
 - Provokatives Papierprospekt
+
+### Logo
+![](/assets/images/logo.png)
+
+Aussagen des Logos:
+
+Papiertüte:
+- Einkauf
+- Lebensmittel
+- nachhaltig
+- lebensnah
+
+Farben:
+- gesunde Ernährung
+- Gemüse
+- Brot
+- ausgewogen
+
+[Entscheidender Faktor für sprechendes Logo (Papiertüte) gegenüber Simplizität](https://hbr.org/2019/09/a-study-of-597-logos-shows-which-kind-is-most-effective)
+
+Skalierung des Logos:
+
+App Icon
+![](/assets/images/logo_on_iphone.png)
+
+Billboard
+![](/assets/images/logo_on_billboard.png)
+
+### Font
+Apple LiGothic (vorläufig)
