@@ -26,7 +26,8 @@ __Einkaufshelfer__
 - Wie schnell sind 3€ im Supermarkt zu viel ausgegeben? (Rationalisierung der Kaufentscheidung)
 - Provokatives Papierprospekt
 
-### Logo
+### Corporate Identity
+#### Logo
 ![](/assets/images/logo.png)
 
 Aussagen des Logos:
@@ -53,5 +54,9 @@ App Icon
 Billboard
 ![](/assets/images/logo_on_billboard.png)
 
-### Font
-Apple LiGothic (vorläufig)
+#### Schriftarten
+Schriftzug im Logo: Apple LiGothic
+Sonstige Schriften: San Francisco
+
+#### Farben
+![](/assets/images/colors.png)
