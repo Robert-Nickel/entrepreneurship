@@ -56,6 +56,7 @@ Billboard
 
 #### Schriftarten
 Schriftzug im Logo: Apple LiGothic
+
 Sonstige Schriften: San Francisco
 
 #### Farben
